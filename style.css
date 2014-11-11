@@ -4,7 +4,11 @@
     text-align: center;
     color: white;
 }
-
+.jumbo-nosise {
+    font-family: 'Pacifico', sans-serif;
+    text-align: center;
+    color: white;
+}
 .text {
     font-family: 'Open Sans Condensed', sans-serif;
     text-align: center;
